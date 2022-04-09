@@ -15,6 +15,7 @@ Its usage is the same as the "input()" function, but the difference from "input"
 ### KULLANIM/USE
 **TR**<br>
 Modül içer aktarılır ve modüle ait olan `passwordInput` komutu herhangi bir değişkene return edilir. Kullanıcı şifreyi girdiğinde değişken şifrenin değerine sahip olacaktır.
+
 **EN**<br>
 The module is imported and the `passwordInput` command belonging to the module is returned to any variable. When the user enters the password, the variable will have the value of the password.
 
