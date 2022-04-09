@@ -2,20 +2,20 @@
 # Python Password Input
 
 ### AÇIKLAMA/DESCRIPTION
-**TR**
+**TR**<br>
 Python için hazırlanmış bir şifre girişi.
 Kullanımı "input()" işleviyle aynıdır, ancak "input" ve "getpass"tan farkı, karakter yerine * yazdırmasıdır.
 
-**EN**
+**EN**<br>
 A password input prepared for Python.
 Its usage is the same as the "input()" function, but the difference from "input" and "getpass" is that it prints * instead of characters.
 
 ![GIF](https://i.hizliresim.com/crll8ua.gif)
 
 ### KULLANIM/USE
-**TR**
+**TR**<br>
 Modül içer aktarılır ve modüle ait olan `passwordInput` komutu herhangi bir değişkene return edilir. Kullanıcı şifreyi girdiğinde değişken şifrenin değerine sahip olacaktır.
-**EN**
+**EN**<br>
 The module is imported and the `passwordInput` command belonging to the module is returned to any variable. When the user enters the password, the variable will have the value of the password.
 
 ### ÖRNEKLER/EXAMPLES
