@@ -36,7 +36,7 @@ else:
 
 ## GELİŞTİREN/AUTHOR
 **Muhammed KARAMAN-MAMOSKO-**
-Web Site: [www.mamosko.ml](https://mamosko.ml)
-Mail: [admin@mamosko.ml](mailto:admin@mamosko.ml)
-Instagram: [mhmdkrmn1](https://instagram.com/mhmdkrmn1)
+Web Site: [www.mamosko.ml](https://mamosko.ml)<br>
+Mail: [admin@mamosko.ml](mailto:admin@mamosko.ml)<br>
+Instagram: [mhmdkrmn1](https://instagram.com/mhmdkrmn1)<br>
 GitHub: [MAMSOKO](https://github.com/MAMOSKO)
